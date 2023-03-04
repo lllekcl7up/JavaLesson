@@ -1,4 +1,4 @@
-package JavaLesson.Lessons;
+package JavaLesson.Lessons.Lecture1;
         // Форматированный вывод 
 
 /** 

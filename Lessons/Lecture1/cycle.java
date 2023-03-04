@@ -3,7 +3,7 @@
 // ● цикл while;
 // ● цикл do while;
 // ● цикл for; и его модификация for in
-package JavaLesson.Lessons;
+package JavaLesson.Lessons.Lecture1;
     
     // Цикл while
 

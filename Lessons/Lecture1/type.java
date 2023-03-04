@@ -1,4 +1,4 @@
-package JavaLesson.Lessons;
+package JavaLesson.Lessons.Lecture1;
     //  Неявная типизация
     public class type {
         public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package JavaLesson.Lessons;
+package JavaLesson.Lessons.Lecture1;
 // Управляющие конструкции:условный оператор
 // public class if_else {
 //     public static void main(String[] args) {

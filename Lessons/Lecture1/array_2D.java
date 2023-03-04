@@ -1,4 +1,4 @@
-package JavaLesson.Lessons;
+package JavaLesson.Lessons.Lecture1;
     // Многомерные массивы
 // public class array_2D {
 //     public static void main(String[] args) {
