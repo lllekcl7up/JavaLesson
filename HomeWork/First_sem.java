@@ -24,7 +24,7 @@ public class First_sem {
         // System.out.println(Arrays.toString(m1));
         // int[] m2 = getMyNOMult(i, n, 0);
         // System.out.println(Arrays.toString(m2));
-//3.- метод с библиотекой Java заполнение массива( удобный вариант !!!!)
+// 3.- метод с библиотекой Java заполнение массива( удобный вариант !!!!)
         System.out.println();
         ArrayList<Integer> m1 = getJavaArrayMethodsMult(i, n,2000);
         System.out.println("Все кратные " + n + " в диапазоне от " + i + " до " + 2000 +": "+ m1 );
@@ -63,21 +63,21 @@ public class First_sem {
 
 
 
-// 3. - решение с циклом for 
-    // public static int[] getMyMult(int i, int n, int max) {
-    //     int size = 0;
-    //     for (int j = i + 1; j < max; j++) {
-    //         if (j % n == 0)
-    //             size++;
-    //     }
-    //     int[] result = new int[size];
-    //     int index = 0;
-    //     for (int j = i + 1; j < max; j++) {
-    //         if (j % n == 0)
-    //             result[index++] = j;
-    //     }
-    //     return result;
-    // }
+// // 3. - решение с циклом for 
+//     public static int[] getMyMult(int i, int n, int max) {
+//         int size = 0;
+//         for (int j = i + 1; j < max; j++) {
+//             if (j % n == 0)
+//                 size++;
+//         }
+//         int[] result = new int[size];
+//         int index = 0;
+//         for (int j = i + 1; j < max; j++) {
+//             if (j % n == 0)
+//                 result[index++] = j;
+//         }
+//         return result;
+//     }
 
 // // 4. - решение с циклом for 
 //     public static int[] getMyNOMult(int i, int n, int min) {
