@@ -1,4 +1,4 @@
-package JavaLesson.Seminar;
+
 
 import java.util.Random;
 public class main_03_03_2023 {

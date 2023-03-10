@@ -1,4 +1,5 @@
-package JavaLesson.Seminar;
+
+
 import java.util.StringTokenizer;
 
 public class main_07_03_2023 {
