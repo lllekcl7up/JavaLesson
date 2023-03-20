@@ -1,4 +1,4 @@
-package Lesson_04;
+package JavaLesson.Lessons.Lecture4;
 
 import java.util.Stack;
 
